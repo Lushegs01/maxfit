@@ -16,7 +16,7 @@ export const exerciseDB: Record<string, string[]> = {
     "Pull Ups",
     "Lat Pulldown",
     "Face Pulls",
-"T-Bar Rows",
+    "T-Bar Rows",
     "Incline Press",
     "Dips"
   ],
